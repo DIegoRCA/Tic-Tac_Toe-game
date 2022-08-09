@@ -7,3 +7,4 @@ HTML | CSS | JavaScript | React
 ```
 ## SnapShots
 ### Landing Page
+<img src="https://github.com/DIegoRCA/Tic-Tac_Toe-game/blob/master/public/TIC-TAC-TOE.png"/>
